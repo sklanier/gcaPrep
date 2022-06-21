@@ -61,3 +61,4 @@ console.log(solution(t7))
 console.log(solution(t8))
 console.log(solution(t9))
 console.log(solution(t10))
+
